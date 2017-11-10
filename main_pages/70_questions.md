@@ -9,8 +9,7 @@ include_in_menu: true
 
 There are many ways to contribute to the Tomopedia website, and we encourage
 everybody to do so. Most of Tomopedia's content is written in [Markdown](https://en.wikipedia.org/wiki/Markdown),
-which makes it easy to edit content with any text processor. An overview of
-how the website code is structured can be found [here](https://github.com/tomopedia/tomopedia.github.io/blob/master/README.md).
+which makes it easy to edit content with any text processor.
 
 Below is a list of possible ways of contributing, with some
 guidelines on how to proceed.
@@ -42,4 +41,4 @@ create an issue on GitHub [here](https://www.github.com/tomopedia/tomopedia.gith
 with a request for access.
 
 #### Timing algorithms/packages
-When adding new software/algorithms, we recommend providing timing information for typical ~512^{3} , 1024^3 and ~2048^3 transmission tomography data sets from the databank (https://tomobank.readthedocs.io/en/latest/) and information on the hardware used to provide to run the software.  
+When adding new software/algorithms, we recommend providing timing information for typical ~512^{3} , 1024^3 and ~2048^3 transmission tomography data sets from the databank [here](https://tomobank.readthedocs.io/en/latest/) and information on the hardware used to provide to run the software.  
